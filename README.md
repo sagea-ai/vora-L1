@@ -1,4 +1,3 @@
-
 ---
 license: apple-ascl
 ---
@@ -13,6 +12,12 @@ license: apple-ascl
 ## Overview
 
 VORA-L1 is a lightweight text-to-speech (TTS) model designed for edge deployment with minimal computational resources. Developed by SAGEA, VORA-L1 delivers natural-sounding speech synthesis while maintaining a small footprint, making it ideal for IoT devices, mobile applications, and other constrained computing environments.
+
+## Model Access
+
+The VORA-L1 model is available on Hugging Face:
+- 🤗 **[https://huggingface.co/sagea-ai/VORA-L1](https://huggingface.co/sagea-ai/VORA-L1)**
+
 ## Key Features
 
 - **Lightweight Design**: 80% smaller than comparable TTS models with minimal quality degradation
