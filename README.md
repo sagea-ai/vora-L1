@@ -1,7 +1,7 @@
+
 ---
 license: apple-ascl
 ---
-
 <div align="center">
   <img src="images/sagea.png" alt="VORA-L1 Logo" width="400">
   <h1>VORA-L1: Lightweight Edge-Deployable Text-to-Speech</h1>
@@ -81,3 +81,4 @@ If you use VORA-L1, please cite our research:
 ## License
 
 This model is licensed under the Apple Academic Community License for Software & Documentation (AACL). See LICENSE file for details.
+
